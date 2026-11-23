@@ -11238,10 +11238,7 @@ zuerich
 
 // ===END ICANN DOMAINS===
 
-// ===BEGIN PRIVATE DOMAINS===
-
-// (Note: these are in alphabetical order by company name)
-
+// ===BEGIN PRIVATE DOMAINS=== 
 // .KRD : https://nic.krd
 co.krd
 edu.krd
@@ -15836,6 +15833,10 @@ kirara.st
 x0.to
 from.tv
 sakura.tv
+
+// SaaS BCode : https://saasbcode.online
+// Submitted by SaaS BCode <contato@bcodesolutions.com.br>
+saasbcode.online
 
 // Salesforce.com, Inc. : https://salesforce.com/
 // Submitted by Salesforce Public Suffix List Team <public-suffix-list@salesforce.com>
